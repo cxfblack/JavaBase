@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/myByteStream/myByteStream.iml" filepath="$PROJECT_DIR$/myByteStream/myByteStream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myDiGui/myDiGui.iml" filepath="$PROJECT_DIR$/myDiGui/myDiGui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myFile/myFile.iml" filepath="$PROJECT_DIR$/myFile/myFile.iml" />
+    </modules>
+  </component>
+</project>

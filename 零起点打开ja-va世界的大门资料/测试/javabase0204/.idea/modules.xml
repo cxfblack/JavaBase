@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/myCalendar/myCalendar.iml" filepath="$PROJECT_DIR$/myCalendar/myCalendar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myDate/myDate.iml" filepath="$PROJECT_DIR$/myDate/myDate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myException/myException.iml" filepath="$PROJECT_DIR$/myException/myException.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myInteger/myInteger.iml" filepath="$PROJECT_DIR$/myInteger/myInteger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mySimpleDateFormat/mySimpleDateFormat.iml" filepath="$PROJECT_DIR$/mySimpleDateFormat/mySimpleDateFormat.iml" />
+    </modules>
+  </component>
+</project>
